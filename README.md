@@ -71,7 +71,7 @@ CodeAlpha_StockTradingPlatform/
 
 ## 📽️ Demo Video
 
-🎥 [Watch the Explanation Video](#)  
+🎥 [Watch the Explanation Video](https://www.loom.com/share/d02947e0793e49e6a3da3cf5c5524676?sid=a3e90842-d634-41d8-b029-d92ea16fdcab)  
 🗂️ [View this project on LinkedIn](#)
 
 ---
